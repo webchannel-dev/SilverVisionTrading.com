@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<groups>
+		<group snapToCell="true" gridPosition="CC" cellPosition="CC" orientation="horizontal" spacing="0" paddingH="-258" paddingV="-20">
+			<doubleButton>
+					<button out="assets/buttons/skin/play.png" over="assets/buttons/skin/playOver.png" action="play" tooltip="" animate="true"/>
+					<button out="assets/buttons/skin/pause.png" over="assets/buttons/skin/pauseOver.png" action="pause" tooltip="" animate="true"/>
+			</doubleButton>	
+		</group>
+		<group snapToCell="true" gridPosition="CC" cellPosition="CC" orientation="horizontal" spacing="500" paddingH="0" paddingV="36">
+			<button out="assets/buttons/skin/left.png" over="assets/buttons/skin/leftOver.png" down="assets/buttons/skin/left.png" action="left" tooltip="" animate="true"/>
+			<button out="assets/buttons/skin/right.png" over="assets/buttons/skin/rightOver.png" down="assets/buttons/skin/right.png" action="right" tooltip="" animate="true"/>	
+		</group>
+	</groups>
+</data>

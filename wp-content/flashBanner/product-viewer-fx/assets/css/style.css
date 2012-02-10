@@ -1,0 +1,38 @@
+head{
+	font-family:MetaPro-BoldItalic;
+	font-size:20pt;
+	color:#999999;
+	text-align:left;
+	font-weight:bold;
+}
+
+headBack{
+	font-family:MetaPro-BoldItalic;
+	font-size:20pt;
+	color:#000000;
+	text-align:left;
+	font-weight:bold;
+}
+
+body{
+	font-family:Arial;
+	font-size:20pt;
+	color:#666666;
+}
+
+bodyBack{
+	font-family:Arial;
+	font-size:20pt;
+	color:#aaaaaa;
+	font-weight:bold;
+}
+
+a{
+    font-family:Arial;
+	font-size:15pt;
+	color:#0099FF;
+	text-decoration:underline;
+}
+
+
+

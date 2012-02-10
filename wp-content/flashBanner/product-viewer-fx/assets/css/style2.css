@@ -1,0 +1,39 @@
+head{
+	font-family:Impact;
+	font-weight:bold;
+	font-style:italic;
+	font-size:20pt;
+	color:#FFFFFF;
+}
+
+headBack{
+	font-family:Impact;
+	font-weight:bold;
+	font-style:italic;
+	font-size:20pt;
+	color:#576700;
+}
+
+body{
+	font-family:Arial;
+	font-size:14pt;
+	color:#576700;
+	text-align:justify;
+}
+
+bodyBack{
+	font-family:Arial;
+	font-size:14pt;
+	color:#c5d46b;
+	text-align:justify;
+}
+
+a{
+    font-family:Arial;
+	font-size:15pt;
+	color:#0099FF;
+	text-decoration:underline;
+}
+
+
+

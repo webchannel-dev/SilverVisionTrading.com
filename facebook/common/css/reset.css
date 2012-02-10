@@ -1,0 +1,10 @@
+body, p, form, fieldset, h1, h2, h3, h4, h5, h6{margin:0; padding:0}
+form, fieldset, img{border:none;}
+*{outline:none}
+body{font:15px/22px Arial, Helvetica, sans-serif; color:#3e3e3e; background:#fff;}
+#outer{width:100%; float:left; background:url(../images/illustration.gif) center 11px no-repeat}
+.left{float:left}
+.right{float:right}
+.clear{clear:both}
+a{color:#000; text-decoration:none}
+a:hover{color:#000; text-decoration:underline}

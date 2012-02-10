@@ -1,0 +1,54 @@
+head{
+	font-family:Lato;
+	font-size:24pt;
+	color:#4a4a4a;
+	text-align:justify;
+	font-weight:bold;
+	font-style:italic;
+}
+
+headBack{
+	font-family:Lato;
+	font-size:24pt;
+	color:#FFFFFF;
+	text-align:justify;
+	font-weight:bold;
+	font-style:italic;
+}
+
+body{
+	font-family:Arial;
+	font-size:14pt;
+	color:#979797;
+	text-align:justify;
+}
+
+bodyBack{
+	font-family:Arial;
+	font-size:14pt;
+	color:#FFFFFF;
+	text-align:justify;
+}
+
+c{
+	font-family:Arial;
+	font-size:14pt;
+	color:#979797;
+	text-align:justify;
+	font-weight:bold;
+}
+
+cBack{
+	font-family:Arial;
+	font-size:14pt;
+	font-weight:bold;
+	color:#FFFFFF;
+	text-align:justify;
+}
+
+a{
+    font-family:Arial;
+	font-size:15pt;
+	color:#0099FF;
+	text-decoration:underline;
+}

@@ -1,0 +1,47 @@
+#layout{width:520px; margin:0 auto; padding-bottom:10px;}
+#header{width:520px; float:left}
+.top_menu{width:520px; float:left}
+.top_menu ul{width:auto; float:left; margin:15px 0 0; padding:0; list-style:none}
+.top_menu ul li{width:auto; float:left; text-align:center; font:15px/20px Calibri; text-align:center; padding:0 21px}
+.top_menu ul li img{padding-bottom:3px}
+.top_menu ul li a{color:#505050; text-decoration:none}
+.top_menu ul li a:hover{color:#0cbadf; text-decoration:none}
+
+#banner{width:520px; height:277px; float:left; background:url(../images/banner.jpg) 0 0 no-repeat; margin:4px 0 0}
+#banner h2{width:520px;float:left; font:normal 20px/22px Swis721LtBTLight; color:#fff; text-align:center; text-transform:uppercase; text-shadow: 1px 1px 1px #000000;
+filter: dropshadow(color=#000000, offx=1, offy=1); margin:10px 0 0; padding-bottom:12px }
+#banner p{width:300px; float:left; font:15px/16px Arial, Helvetica, sans-serif; color:#0e84b0; margin:10px 0 0 19px; display:inline}
+#banner p span{color:#ce383b}
+
+#body_container{width:503px; float:left; background:url(../images/shadow_bg.jpg) 0 0 repeat-y; padding:0 8px 0 9px}
+#body_container .body_inner{width:503px; float:left; background:url(../images/layout_bg.jpg) 0 0 repeat-y}
+
+#grid{width:503px}
+#grid td{width:125px; height:184px; border-bottom:1px solid #d8d8d8; border-right:1px solid #d8d8d8; padding-top:10px; text-align:center}
+#grid td .image_frame{width:105px; height:91px; margin:0 auto; background:url(../images/image_frame.jpg) 0 0 no-repeat; padding:2px 0 0}
+#grid td p{font:15px/17px Arial, Helvetica, sans-serif; color:#5e5e5e; margin:9px 0 0}
+#grid td p a{color:#0886af; text-decoration:none}
+#grid td p a:hover{color:#000; text-decoration:none}
+#grid td p span{color:#e64e51}
+#grid td.last{border-right:0}
+
+.text_section{width:503px; height:218px; float:left; background:url(../images/text_bg.jpg) 0 0 no-repeat; margin:1px 0 0}
+.text_section .left_colum{width:241px; float:left; margin: 0 0 0 9px; display:inline}
+.text_section .left_colum p{font-size:14px; color:#000; line-height:16px; padding:8px 0 10px 0}
+.text_section .left_colum p .span1{color:#824f4f}
+.text_section .left_colum p .span2{color:#c05b2e}
+.text_section .left_colum p .span3{color:#3b90c1}
+
+.text_section .right_colum{width:241px; float:right; margin:0; display:inline}
+.text_section .right_colum p{font-size:14px; color:#7c7c7c; line-height:16px; padding:8px 0 10px 0}
+.text_section .right_colum p .span1{color:#657e18}
+.text_section .right_colum p .span2{color:#d84d50}
+.text_section .right_colum p .span3{color:#3b90c1; font-size:14px}
+.text_section .right_colum p .span3 a{color:#3b90c1; text-decoration:none}
+.text_section .right_colum p .span3 a:hover{color:#000; text-decoration:underline}
+.banner1{float:left; margin-left:10px}
+.banner2{float:left; margin-left:4px}
+
+
+
+

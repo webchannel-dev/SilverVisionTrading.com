@@ -1,0 +1,112 @@
+<settings>
+  <General_Properties>
+    <assets value="images.xml"/>
+    <componentWidth value="960"/>
+    <componentHeight value="500"/>
+    <preloader value="assets/preloaders/depthCircles.swf"/>
+    <showAbout value="true"/>
+    <navigation value="assets/buttons/skin2.xml"/>
+    <autoPlay value="true"/>
+    <autoPlayTime value="2"/>
+    <loaderButtonColor value="0x909090"/>
+	<style value="assets/css/style.css"/>
+	<useColorbox value="false"/>
+  </General_Properties>
+   <Colorbox_Properties>
+    <transition value="elastic"/>
+    <innerWidth value="960"/>
+    <innerHeight value="500"/>
+    <slideshow value="false"/>
+    <slideshowSpeed value="2500"/>
+  </Colorbox_Properties>
+  <Images_Properties>
+    <type value="carousel"/>
+    <xPosition value="300"/>
+    <xPerspective value="200"/>
+    <yPosition value="134"/>
+    <yPerspective value="0"/>
+    <zPosition value="150"/>
+    <zPerspective value="1020"/>
+    <radius value="275"/>
+    <blur value="0.03"/>
+    <alphaModifier value="0"/>
+    <animationMethod value="easeOut"/>
+    <animationFunction value="Expo"/>
+    <animationTime value="1"/>
+  </Images_Properties>
+  <Head_Text_Properties>
+    <xPosition value="12"/>
+    <yPosition value="281"/>
+    <width value="960"/>
+    <useDouble value="true"/>
+    <offsetDirection value="BR"/>
+    <animateFromX value="-600"/>
+    <animateFromY value="281"/>
+    <animationTime value="0.7"/>
+    <backgroundColor value="0x1d1d1d"/>
+    <backgroundAlpha value="1"/>
+    <cornerRadius value="0"/>
+    <borderColor value="0x000000"/>
+    <borderAlpha value="0"/>
+    <borderWidth value="0"/>
+    <paddingTop value="6"/>
+    <paddingBottom value="6"/>
+    <paddingLeft value="10"/>
+    <paddingRight value="10"/>
+    <embedFont value="true"/>
+  </Head_Text_Properties>
+  <Body_Text_Properties>
+    <xPosition value="12"/>
+    <yPosition value="322"/>
+    <width value="960"/>
+    <useDouble value="false"/>
+    <offsetDirection value="BR"/>
+    <animateFromX value="960"/>
+    <animateFromY value="322"/>
+    <animationTime value="0.7"/>
+    <backgroundColor value="0xffffff"/>
+    <backgroundAlpha value="1"/>
+    <cornerRadius value="0"/>
+    <borderColor value="0xFFFFFF"/>
+    <borderAlpha value="0"/>
+    <borderWidth value="0"/>
+    <paddingTop value="10"/>
+    <paddingBottom value="10"/>
+    <paddingLeft value="10"/>
+    <paddingRight value="10"/>
+    <embedFont value="true"/>
+  </Body_Text_Properties>
+  <Reflection_Properties>
+    <useReflection value="true"/>
+    <alpha value="0.3"/>
+    <ratio value="7"/>
+    <distance value="1"/>
+  </Reflection_Properties>
+  <Background_Properties>
+    <backgroundImage value="assets/backgroundImages/white3D.jpg"/>
+    <backgroundFitting value="noscale"/>
+    <fillType value="image"/>
+    <backgroundColor1 value="0xEEEEEE"/>
+    <backgroundColor2 value="0xff0000"/>
+    <backgroundAlpha value="1"/>
+    <bgCornerRadius value="5"/>
+    <gradientRotation value="30"/>
+    <gradientRatio value="40"/>
+    <gradientPosX value="0"/>
+    <gradientPosY value="0"/>
+    <useShade value="false"/>
+    <shadeColor value="0x0066cc"/>
+    <shadeAlpha value="0.7"/>
+    <shadeRatio value="40"/>
+    <shadeWidth value="0"/>
+    <shadeHeight value="0"/>
+  </Background_Properties>
+  <Shade_Properties>
+    <useShade value="false"/>
+    <shadeColor value="0x0066cc"/>
+    <shadeAlpha value="0.7"/>
+    <shadeRatio value="40"/>
+    <shadeWidth value="0"/>
+    <shadeHeight value="0"/>
+  </Shade_Properties>
+</settings>

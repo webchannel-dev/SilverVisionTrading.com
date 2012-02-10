@@ -1,0 +1,35 @@
+head{
+	font-family:Arial Black;
+	font-size:20pt;
+	color:#3194a7;
+	text-align:right;
+}
+
+headBack{
+	font-family:Arial Black;
+	font-size:20pt;
+	color:#9ef0ff;
+	text-align:right;
+}
+
+body{
+	font-family:Arial;
+	font-size:12pt;
+	color:#666666;
+}
+
+bodyBack{
+	font-family:Arial;
+	font-size:12pt;
+	color:#FFFFFF;
+}
+
+a{
+    font-family:Arial;
+	font-size:15pt;
+	color:#0099FF;
+	text-decoration:underline;
+}
+
+
+

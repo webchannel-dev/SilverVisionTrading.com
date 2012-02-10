@@ -1,0 +1,16 @@
+body, p, form, fieldset, h1, h2, h3, h4, h5, h6{margin:0; padding:0}
+form, fieldset, img{border:none;}
+*{outline:none}
+body{font:12px/18px Tahoma, Geneva, sans-serif; color:#3e3e3e;
+	 background:#FFF;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+}
+#outer{width:100%; float:left; }
+.left{float:left}
+.right{float:right}
+.clear{clear:both}
+a{color:#000; text-decoration:none}
+a:hover{color:#000; text-decoration:underline}
