@@ -39,7 +39,7 @@ function TogglePopupPanel()
 	<div class="PopupPanel">
 		
 		<p class="TitleBar">
-			Join into our newsletter
+			Subscribe to our Newsletter
 		</p>
 
 		
